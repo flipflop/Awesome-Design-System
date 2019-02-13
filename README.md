@@ -293,6 +293,9 @@ https://github.com/probot/probot
 A CLI dashboard for your webpack dev server*
 https://github.com/FormidableLabs/webpack-dashboard
 
+Create your own team dashboard with custom widgets. Built with Next.js, React, styled-components and polished.
+https://github.com/danielbayerlein/dashboard
+
 Storybook: Interactive UI component dev & test: React, React Native, Vue, Angular*
 https://github.com/storybooks/storybook
 
